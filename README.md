@@ -4,9 +4,9 @@
     + [link](http://ombulabs.com/jobs)
     + Remote Friendly
 - Interfolio
-    + [](http://interfolio.com/careers)
+    + [link](http://interfolio.com/careers)
 - Blacklane
-    + [](http://blacklane.com/en/career)
+    + [link](http://blacklane.com/en/career)
     + @rafaelbiriba
     + Berlin or Remotes
 - Hint
@@ -95,11 +95,3 @@
 - TrueCar
 - CedarCode
     + [email](sebastian@cedarcode.com)
-
-
-
-
-
-
-
-
