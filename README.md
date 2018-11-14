@@ -1,5 +1,7 @@
 # Job board @RubyConfLA 2018
 
+![alt text](./IMG_4310.JPG)
+
 - Ombulabs
     + [link](http://ombulabs.com/jobs)
     + Remote Friendly
@@ -89,7 +91,6 @@
 - Square
     + skipper@square.com
 - Apple
-    + 
 - NewRelic
     + SF, Portland, Barcelona
 - TrueCar
