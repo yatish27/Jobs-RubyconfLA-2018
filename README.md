@@ -19,7 +19,7 @@
     + [testdouble](testdouble.com/join)
     + Ruby on Rails & JS devs
 - NationBuilder
-    + [email](jobs@nationbuilder.com)
+    + [link](nationbuilder.com)
 - Lending Home
     + [link](lendinghome.com/careers)
     + Diverse team
@@ -50,7 +50,7 @@
     + [link](http://jobs.lever.co/treasure-data)
 - LiveRamp
 - ID WatchDog
-    + [email](hmoleler@idwatchdog.com)
+    + [link](idwatchdog.com)
     + Downtown Denver
     + Sr Rails/Ruby
 - AppFolio
@@ -87,7 +87,7 @@
     + [link](http://meetcleo.com)
 - BlueApron
 - Square
-    + [email](skipper@square.com)
+    + skipper@square.com
 - Apple
     + 
 - NewRelic
